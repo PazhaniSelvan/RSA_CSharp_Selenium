@@ -1,0 +1,14 @@
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\bin\Debug\net8.0\Baics.exe
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\bin\Debug\net8.0\Baics.deps.json
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\bin\Debug\net8.0\Baics.runtimeconfig.json
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\bin\Debug\net8.0\Baics.dll
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\bin\Debug\net8.0\Baics.pdb
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\obj\Debug\net8.0\Baics.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\obj\Debug\net8.0\Baics.AssemblyInfoInputs.cache
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\obj\Debug\net8.0\Baics.AssemblyInfo.cs
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\obj\Debug\net8.0\Baics.csproj.CoreCompileInputs.cache
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\obj\Debug\net8.0\Baics.dll
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\obj\Debug\net8.0\refint\Baics.dll
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\obj\Debug\net8.0\Baics.pdb
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\obj\Debug\net8.0\Baics.genruntimeconfig.cache
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\obj\Debug\net8.0\ref\Baics.dll

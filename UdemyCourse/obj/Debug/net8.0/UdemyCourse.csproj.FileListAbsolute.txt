@@ -1,0 +1,14 @@
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\bin\Debug\net8.0\UdemyCourse.exe
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\bin\Debug\net8.0\UdemyCourse.deps.json
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\bin\Debug\net8.0\UdemyCourse.runtimeconfig.json
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\bin\Debug\net8.0\UdemyCourse.dll
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\bin\Debug\net8.0\UdemyCourse.pdb
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\obj\Debug\net8.0\UdemyCourse.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\obj\Debug\net8.0\UdemyCourse.AssemblyInfoInputs.cache
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\obj\Debug\net8.0\UdemyCourse.AssemblyInfo.cs
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\obj\Debug\net8.0\UdemyCourse.csproj.CoreCompileInputs.cache
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\obj\Debug\net8.0\UdemyCourse.dll
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\obj\Debug\net8.0\refint\UdemyCourse.dll
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\obj\Debug\net8.0\UdemyCourse.pdb
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\obj\Debug\net8.0\UdemyCourse.genruntimeconfig.cache
+D:\VSCodeOrion\C#_Selenium_Course\UdemyCourse\obj\Debug\net8.0\ref\UdemyCourse.dll
