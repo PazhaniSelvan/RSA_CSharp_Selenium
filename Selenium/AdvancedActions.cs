@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Selenium
 {
-    internal class AdvancedActions
+    public class AdvancedActions
     {
+        //just created to check git push to Pazhani Local
+        //we'll write the logic tomorrow
     }
 }
