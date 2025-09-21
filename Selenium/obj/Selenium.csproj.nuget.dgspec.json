@@ -54,6 +54,10 @@
               "target": "Package",
               "version": "[3.11.0, )"
             },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.8.0, )"
@@ -77,6 +81,10 @@
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[4.35.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[140.0.7339.18500, )"
             },
             "WebDriverManager": {
               "target": "Package",

@@ -11,7 +11,11 @@ D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\Selenium.runtimeconf
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\Selenium.dll
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\Selenium.pdb
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\AngleSharp.dll
+D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\SeleniumExtras.WaitHelpers.dll
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -99,10 +103,10 @@ D:\VSCodeOrion\C#_Selenium_Course\Selenium\obj\Debug\net8.0\Selenium.GeneratedMS
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\obj\Debug\net8.0\Selenium.AssemblyInfoInputs.cache
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\obj\Debug\net8.0\Selenium.AssemblyInfo.cs
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\obj\Debug\net8.0\Selenium.csproj.CoreCompileInputs.cache
+D:\VSCodeOrion\C#_Selenium_Course\Selenium\obj\Debug\net8.0\Selenium.sourcelink.json
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\obj\Debug\net8.0\Selenium.csproj.Up2Date
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\obj\Debug\net8.0\Selenium.dll
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\obj\Debug\net8.0\refint\Selenium.dll
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\obj\Debug\net8.0\Selenium.pdb
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\obj\Debug\net8.0\Selenium.genruntimeconfig.cache
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\obj\Debug\net8.0\ref\Selenium.dll
-D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\SeleniumExtras.WaitHelpers.dll
