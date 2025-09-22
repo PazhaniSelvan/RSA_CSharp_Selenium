@@ -29,6 +29,9 @@ D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\nunit.framework.dll
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\WebDriver.Support.dll
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\WebDriver.dll
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
+D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\WebDriverManager.dll
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
@@ -98,6 +101,8 @@ D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\zh-Hant\Microsoft.Vi
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\runtimes\linux\native\selenium-manager
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\runtimes\osx\native\selenium-manager
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\runtimes\win\native\selenium-manager.exe
+D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\VSCodeOrion\C#_Selenium_Course\Selenium\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\obj\Debug\net8.0\Selenium.csproj.AssemblyReference.cache
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\obj\Debug\net8.0\Selenium.GeneratedMSBuildEditorConfig.editorconfig
 D:\VSCodeOrion\C#_Selenium_Course\Selenium\obj\Debug\net8.0\Selenium.AssemblyInfoInputs.cache

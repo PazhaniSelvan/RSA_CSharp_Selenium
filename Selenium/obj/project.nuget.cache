@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "viYGnKXPL74=",
+  "dgSpecHash": "gcYVlOW7t+g=",
   "success": true,
   "projectFilePath": "D:\\VSCodeOrion\\C#_Selenium_Course\\Selenium\\Selenium.csproj",
   "expectedPackageFiles": [
@@ -26,8 +26,11 @@
     "C:\\Users\\karth\\.nuget\\packages\\selenium.webdriver\\4.35.0\\selenium.webdriver.4.35.0.nupkg.sha512",
     "C:\\Users\\karth\\.nuget\\packages\\selenium.webdriver.chromedriver\\140.0.7339.18500\\selenium.webdriver.chromedriver.140.0.7339.18500.nupkg.sha512",
     "C:\\Users\\karth\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512",
+    "C:\\Users\\karth\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.9\\system.configuration.configurationmanager.9.0.9.nupkg.sha512",
+    "C:\\Users\\karth\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.9\\system.diagnostics.eventlog.9.0.9.nupkg.sha512",
     "C:\\Users\\karth\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
     "C:\\Users\\karth\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\karth\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.9\\system.security.cryptography.protecteddata.9.0.9.nupkg.sha512",
     "C:\\Users\\karth\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
     "C:\\Users\\karth\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
     "C:\\Users\\karth\\.nuget\\packages\\webdrivermanager\\2.17.6\\webdrivermanager.2.17.6.nupkg.sha512"

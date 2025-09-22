@@ -50,9 +50,25 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "DotNetSeleniumExtras.PageObjects": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "DotNetSeleniumExtras.PageObjects.Core": {
+              "target": "Package",
+              "version": "[4.14.1, )"
+            },
             "DotNetSeleniumExtras.WaitHelpers": {
               "target": "Package",
               "version": "[3.11.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.9, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -77,6 +93,10 @@
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[4.35.0, )"
+            },
+            "WebDriverManager": {
+              "target": "Package",
+              "version": "[2.17.6, )"
             },
             "coverlet.collector": {
               "target": "Package",

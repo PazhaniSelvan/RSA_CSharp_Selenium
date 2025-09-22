@@ -53,6 +53,10 @@
             "Microsoft.Extensions.Options": {
               "target": "Package",
               "version": "[9.0.9, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[9.0.9, )"
             }
           },
           "imports": [
